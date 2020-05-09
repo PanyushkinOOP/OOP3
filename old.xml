@@ -1,0 +1,16 @@
+<store>
+    <material code="1" name="Gold" PriceForGramm="1000"/>
+    <material code="2" name="Silver" PriceForGramm="500"/>
+    <material code="3" name="Bronze" PriceForGramm="250"/>
+    <material code="4" name="Platinum" PriceForGramm="1500"/>
+    <product code="1" name="Goldcoin" type="Ring" material="1" weight="10" price="10000"/>
+    <product code="2" name="Argo" type="Necklace" material="2" weight="30" price="15000"/>
+    <product code="3" name="Maria" type="Earrings" material="3" weight="5" price="1250"/>
+    <product code="4" name="Darling" type="Necklace" material="1" weight="40" price="40000"/>
+    <product code="5" name="Unity" type="Ring" material="4" weight="15" price="22500"/>
+    <sell code="1" product="3" date="21.02.2018" surname="Pavlov" name="Ivan" secname="Stepanovich"/>
+    <sell code="2" product="1" date="15.03.2018" surname="Mugin" name="Sergey" secname="Sergeevich"/>
+    <sell code="3" product="2" date="06.06.2018" surname="Petrushkin" name="Genadiy" secname="Olegovhich"/>
+    <sell code="4" product="5" date="19.10.2018" surname="Semenov" name="Anatolyi" secname="Viktorovich"/>
+    <sell code="5" product="4" date="15.01.2019" surname="Rukov" name="Semen" secname="Petrovich"/>
+</store>
